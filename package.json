@@ -1,0 +1,18 @@
+{
+  "name": "dotandkey-cookie-saver",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Open dotandkey.com, log in manually, and save cookies/storage state.",
+  "scripts": {
+    "login": "node scripts/save-dotandkey-cookies.js",
+    "test-login": "node scripts/test-dotandkey-login.js",
+    "import:users": "node scripts/import-dotandkey-users-csv.js",
+    "import:grouped": "node scripts/import-grouped-cookies.js",
+    "chrome:incognito": "node scripts/open-chrome-with-cookies.js --incognito",
+    "chrome:guest": "node scripts/open-chrome-with-cookies.js --guest"
+  },
+  "dependencies": {
+    "pg": "^8.13.1",
+    "playwright": "^1.52.0"
+  }
+}

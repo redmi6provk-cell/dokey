@@ -1,0 +1,20 @@
+[
+    {
+      "name": "flo_auth",
+      "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJuYmYiOjE3NzEwNjc0NTEsInBheWxvYWQiOnsib2lkIjoiKzkxOTA4Mjk5NTgwNCIsInVzZXJfaWQiOiJmN2E2YzRmMy02MTMzLTRmOTUtYmUzMC05NDBlM2EzNzYxZjciLCJhY2NvdW50X3R5cGUiOiJDVVNUT01FUiIsImRldmljZV9pZCI6IjViOGY2ODJiLTY0ZWMtNDU4MS04ZTE3LWQwYWE2MDhjM2Y3NSIsInVzZXJfYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTQ0LjAuMC4wIFNhZmFyaS81MzcuMzYiLCJtZXJjaGFudF9pZCI6ImJmMWRmNjg4LTU0YmMtNGI1Ny04MDNjLTFjYjdhZjlmNjRmYyIsIm9uYm9hcmRpbmdfYWNjb3VudCI6ZmFsc2UsImxvZ2luX2F0IjoxNzY4OTgzMTgzMTAyLCJndWVzdCI6ZmFsc2V9LCJleHAiOjE3NzEwNzEwNTEsImlhdCI6MTc3MTA2NzQ1MX0.HKpLlqMhjctIN_-nxlqFKF2uT1WlC6Tu7nnImnvt5BFm3FZGupL0DitaR2HbtlYPIPOPgnKC4rCnjhFgvXNNFw",
+      "domain": "checkout.shopflo.co",
+      "path": "/",
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "flo_refresh",
+      "value": "32ec2699-b38e-4e60-86f2-aca1fc82949e",
+      "domain": "checkout.shopflo.co",
+      "path": "/",
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "None"
+    }
+]
